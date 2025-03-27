@@ -24,7 +24,7 @@ The bot includes:
 
 ## Key Info
 
-The bot's commands are not suited for other guilds, so as of now (27/03/2025 DD/MM) Guild Installs are temporarily disabled. I do not see any one using the bot in their server so unless someone wants to I will then make a database for more servers and turn on Guild Installs.
+The bot's commands are not suited for other guilds, so as of now (27/03/2025 DD/MM) moderation commands and other(s) are disabled. I do not see any one using the bot in their server so unless someone wants to I will then make a database for more servers and enable all commands.
 
 You will not get all commands for ABotmo in DMs as I have not been verified, and in the Server you will need to install it into your account to see the rest of the commands. However for the server command issue, it'll be removed after the above issue is resolved.
 
